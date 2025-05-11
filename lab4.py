@@ -170,4 +170,4 @@ def main_menu():
             print("\nНеверный ввод. Попробуйте снова.")
 
 if __name__ == '__main__':
-    main_menu() 
+    main_menu() # Комментарий для git commit
