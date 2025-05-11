@@ -172,3 +172,4 @@ def main_menu():
 if __name__ == '__main__':
     main_menu() # Комментарий для git commit
 # Комментарий для feature-branch
+# Комментарий для another-feature-branch
