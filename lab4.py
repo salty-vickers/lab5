@@ -126,6 +126,8 @@ class VisitCollection:
         
         print(separator)
 
+print("Изменение в клонированный репозиторий")
+
 def main_menu():
     """Интерактивное меню управления"""
     collection = VisitCollection.from_csv('data.csv')
